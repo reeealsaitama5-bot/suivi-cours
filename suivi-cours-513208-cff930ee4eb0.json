@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "suivi-cours-513208",
+  "private_key_id": "cff930ee4eb0db8522dcadcf8e38a53a96335b2e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCfpesckOu/NgS8\n/LO/Pdrp90xuzV5z9bgFA7IiFKxuV6mSZpAt46FBa4bGTXG48BXevlrYPWQAdRzB\nBG6+95RJF/sDWvjLD7jtKBD31+L5ZdSW4ZcOiC7ufWz6PrJ+xFpknX88u6G66Tgd\nnScTMZjeaKmJtXOv5c99zeCaUi1uKMWwuN7cmDJ67VCDEalYSB/RzUh7npCovDKP\nIk8ohcRb5BvMdf3JajsNaJel9qyZIh/vTEQDGfwB4DyRTIh+0pqwBK7bRRest007\n0Xt0/doqYOZv5XC+rJjRPEq2/+hGn8H5G2tTfSsbcW25YXL6dMaahSB1d/leOpZJ\ngZwG4IjLAgMBAAECggEAMgS0zeVlxymwgFmYI2HI1abibpCveBtTRVbsF5tsjsGu\nYiz6HTaFTk7XEggviibGY1w2cCuDylTm5l5yKCi/b8swnNOCwXQylzMHZe9gsIzD\n92XEgwwN0DDB1QGRwP/Z5k4mECwlNr9dEoIrPOs8Huqhu4B7N3AD+0FmjlMS4sEq\nqe2aOagRYYd49UqiZEcaUXDPLZBauvrJClFhT5mDUfn+xXLilHfXG9EDkk7uNzce\nVHHM8dVDU8K9tNBaV+/csWC5fzBf9ght18uyk/2xboZRs8XDRUc3OMennVNMxEHJ\nAE0bJ/iezKmM7ULLnegpeFohwabkO7NMt8ueKSFIGQKBgQDTPF6qJfuU69cftmOi\nqIsWQgXXTyJ6rOVg121FUzcVlE7SQF8wjLCYuYvehL3+sq/LNXkqxYWdh/cvS3Ku\naX/z+l+K5XhLng2wu1NmVt08jqsQBpmpjVMmwYVRKrr1SZa3ly1kIsOWqIVMsVA/\n1BjqMHnw/wXmdI4UAnIQCf44RQKBgQDBeuUFDvRZtuxEnRulegVxSVKDD3DS5zYI\n+SuGH9RGh+GuJNK3DX37M65zWAX3a6wzCyM2HtGu8VNSLNPXKYfOR3ZmhsbCxrTV\ndtXzTx9J7z9KnzaR57iq+gW9s/rqJFBz2JV5/gV8frADxaev1+byQ4X6kJUVr4rq\nZPqmxYv1zwKBgQCdxs7SehJjFpEVT8819HwHAQOJ4cLYLIIcBmzIxjIzvRXut0Qi\naEOTn6uYZj/fmSnzN5qsVuLJWoBH5CvhmE2JN67beTCUEpcZNaJCo4kWLV4aV0O5\nQCUmoo9oo+kHQ5L+yD2QOOMsie0e7qYJNuvxKIo8ds+6Zb6ltXnq/vvSnQKBgBvf\nOVjGM7ss19J2k4H+FwSf3GwW8Fjhh+44/uUedrUGZCNzGIvYPLrQUiQ5nPpsn2zn\nANaOEATUrP0cihPn3rF/p/XTGpT6jRhnOyEG1+oNth9o2jKgoAC5bdRLNi0+t/xI\nShg92Mp7cZ3JfoOdZZ6mzYkwBNoP5MIpc9ZMhQIPAoGAAW8C5cAkGO+aM8r2oSux\nx6bNsqPKeMPRVmTt8BI3hogwdPqZyiLoAm7ia1DjOGri0mUc2sxbr0XPWZHuNW/r\n6xW3M7HKnnUoaCOxLXSOt50u+H6s58V5jAVjEl6oQDvgHkYgUjHkq3Oo0cv2KxR6\nnX7vm1rRa8D0Q0Q1rC2iuvg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "suivi-cours@suivi-cours-513208.iam.gserviceaccount.com",
+  "client_id": "104415300422591555331",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/suivi-cours%40suivi-cours-513208.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
